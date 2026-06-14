@@ -6,3 +6,5 @@ Lumina - Your OpenClaw AI Assistant
 - **Web:** Search the internet, fetch content, and automate browser workflows.
 - **Organization:** Manage long-term memory, set goals, coordinate sub-agents, and handle complex task flows.
 - **Tools:** Create diagrams, integrate with Notion, check weather, and perform system health checks.
+
+**Status:** Verification of integrity and user permissions.
